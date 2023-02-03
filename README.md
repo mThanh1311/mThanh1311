@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Minh Thanh 👋
 
 <!--
 **mThanh1311/mThanh1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
