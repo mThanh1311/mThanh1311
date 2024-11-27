@@ -6,6 +6,6 @@
 - ✨ I'm fascination with Microcontrollers, Microprocessors
 - 😄 I'm love learning about C/C++
 - 📫 Contact me:
-- https://www.linkedin.com/in/minh-thanh-1b5637258/
-- https://www.facebook.com/tmthanhhhh
+- [Linkedin](https://www.linkedin.com/in/thanhtrg/)
+- [Facebook](https://www.facebook.com/tmthanhhhh)
 
